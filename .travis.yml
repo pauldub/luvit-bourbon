@@ -20,5 +20,4 @@ before_script:
   - lui 
 
 script: 
-  - "modules/bourbon/bin/bourbon -p test/"
-  - "modules/bourbon/bin/bourbon -p test/server"
+  - "bin/bourbon -p test/"
